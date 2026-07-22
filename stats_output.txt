@@ -1,0 +1,7 @@
+Chi-squared test (Contract vs Churn): χ²=1184.5966, p=5.8630e-258
+  → Significant at α=0.01
+Mann-Whitney U (MonthlyCharges vs Churn): U=6003125.5000, p=3.3116e-54
+  → Significant at α=0.01
+Welch's t-test (tenure vs Churn): t=-34.8238, p=1.1955e-232
+Cramer's V (Contract vs Churn): 0.4101
+Cohen's d (MonthlyCharges): 0.4463
